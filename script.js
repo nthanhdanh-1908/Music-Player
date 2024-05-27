@@ -70,7 +70,7 @@ const app = {
         {
             name: 'HỘI PHÁP SƯ FAIRY TAIL ',
             singer: 'Singer',
-            path: 'assets/musics/HoiPhapSu .mp3',
+            path: 'assets/musics/HoiPhapSu.mp3',
             image: 'assets/img/img.jpg'
         },
         {
